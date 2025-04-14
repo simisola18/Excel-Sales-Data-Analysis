@@ -3,8 +3,8 @@ Data Cleaning and Validation, Calculations and Analysis, Sales Performance Evalu
 ## Project Objective
 The dataset from Kaggle needed the dataset to be cleaned and certain cleaning and validation steps taken, calculations and analysis on the sales dataset done and a sales performance evaluation done also. The tasks needed to be done and questions to be answered are already uploaded as a file on this repository and can be reviewed to understand all that was done on the dataset and why and how I got to the answers below.
 ## Dataset used
-Raw Sales_Data_Expanded.xlsx
-Results Sales_Data_SimiOduba.xlsx
+*Raw Sales_Data_Expanded.xlsx
+*Results Sales_Data_SimiOduba.xlsx
 
 ## Section 1: Data Cleaning and Validation
 1. Identify and Correct Errors:
